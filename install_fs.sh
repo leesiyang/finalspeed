@@ -4,8 +4,7 @@ export PATH
 
 
 install_path=/fs/
-#有偿技术服务，联系QQ:1151866426  
-package_download_url=http://finalspeed.org/fs/finalspeed_server.zip
+package_download_url=https://raw.githubusercontent.com/leesiyang/finalspeed/master/finalspeed_server.zip
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
