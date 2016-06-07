@@ -5,7 +5,7 @@ finalspeed
 
 安装脚本：
 
-rm -f install_fs.sh
-wget https://raw.githubusercontent.com/leesiyang/finalspeed/master/install_fs.sh
-chmod +x install_fs.sh
+rm -f install_fs.sh</br>
+wget https://raw.githubusercontent.com/leesiyang/finalspeed/master/install_fs.sh</br>
+chmod +x install_fs.sh</br>
 ./install_fs.sh 2>&1 | tee install.log
